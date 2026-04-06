@@ -115,17 +115,6 @@ Automated MERN and LAMP stack deployments across multiple environments using mod
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ehab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EhabAshrafMu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EhabAshrafMu&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *If you're building infrastructure, automating deployments, or scaling cloud systems — let's connect.*
